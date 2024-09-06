@@ -1,0 +1,5 @@
+books/Deep-Learning-花书-《深度学习》-英文版.pdf filter=lfs diff=lfs merge=lfs -text
+books/Michael[[:space:]]Nielsen[[:space:]]-[[:space:]]Neural[[:space:]]networks[[:space:]]and[[:space:]]deep[[:space:]]learning[[:space:]]-[[:space:]]libgen.li.pdf filter=lfs diff=lfs merge=lfs -text
+books/斯坦福大学-深度学习基础教程.pdf filter=lfs diff=lfs merge=lfs -text
+books/神经网络和深度学习neural[[:space:]]networks[[:space:]]and[[:space:]]deep-learning-中文_ALL.pdf filter=lfs diff=lfs merge=lfs -text
+books/David[[:space:]]Foster[[:space:]]-[[:space:]]Generative[[:space:]]Deep[[:space:]]Learning_[[:space:]]Teaching[[:space:]]Machines[[:space:]]To[[:space:]]Paint,[[:space:]]Write,[[:space:]]Compose,[[:space:]]and[[:space:]]Play-O'Reilly[[:space:]]Media[[:space:]](2023).pdf filter=lfs diff=lfs merge=lfs -text
